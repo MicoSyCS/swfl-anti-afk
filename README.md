@@ -1,5 +1,4 @@
-# mouse-jiggler
-get rich in southwest florida
+# we're rich
 
 hit ctrl + 1 to start spining
 hit esc to abort
