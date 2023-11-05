@@ -1,5 +1,5 @@
 # mouse-jiggler
-Simulates mouse movement.
+get rich in southwest florida
 
-Ctrl + 1 will begin the jiggle.
-Hitting esc will abort.
+hit ctrl + 1 to start spining
+hit esc to abort
